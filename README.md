@@ -25,6 +25,7 @@ It is a concrete example for maintainers running a Next.js app where route behav
 - `docs/DEPLOYMENT.md`: example deploy notes maintainers should keep current
 - `docs/ARCHITECTURE.md`: example boundary and system-context notes for reviewers
 - `app/README.md`: example app-surface notes worth reviewing before merge
+- `.github/workflows/ci-smoke.yml`: editable starting point for build and smoke checks
 
 ## What this preset is trying to optimize
 
