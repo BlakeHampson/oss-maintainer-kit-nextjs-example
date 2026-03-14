@@ -24,6 +24,7 @@ It is a concrete example for maintainers running a Next.js app where route behav
 - `docs/MAINTAINER_WORKFLOW.md`: how to review app changes that affect users and deploys
 - `docs/DEPLOYMENT.md`: example deploy notes maintainers should keep current
 - `docs/ARCHITECTURE.md`: example boundary and system-context notes for reviewers
+- `docs/SMOKE_COMMANDS.md`: copyable starter patterns for `SMOKE_COMMAND`
 - `app/README.md`: example app-surface notes worth reviewing before merge
 - `.github/workflows/ci-smoke.yml`: editable starting point for build and smoke checks, with npm, pnpm, and yarn starter detection
 
