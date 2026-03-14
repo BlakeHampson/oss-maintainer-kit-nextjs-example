@@ -1,6 +1,6 @@
 # OSS Maintainer Kit Next.js Example
 
-![Preview](docs/assets/preview.svg)
+![Preview](docs/assets/social-preview.png)
 
 This repository shows what the `nextjs-app` preset from [oss-maintainer-kit](https://github.com/BlakeHampson/oss-maintainer-kit) looks like after scaffolding.
 
