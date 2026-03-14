@@ -1,0 +1,41 @@
+name: Bug report
+description: Tell us what feels broken. Rough notes are fine as long as someone else can follow them.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: What were you trying to do?
+      description: Start with the goal, not the diagnosis.
+    validations:
+      required: true
+  - type: textarea
+    id: happened
+    attributes:
+      label: What happened instead?
+      description: Include what you expected to happen if it helps.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can someone else reproduce it?
+      description: Include exact commands, URLs, or files when possible.
+      placeholder: |
+        1. Go to...
+        2. Run...
+        3. Observe...
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Why does this matter?
+      description: What breaks for users, contributors, or maintainers?
+  - type: textarea
+    id: environment
+    attributes:
+      label: Anything else that might help?
+      description: OS, runtime, browser, version, screenshots, branch details, or links.

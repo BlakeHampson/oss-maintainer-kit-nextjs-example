@@ -1,0 +1,25 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">docs-heavy preview card</title>
+  <desc id="desc">Summary card for the docs-heavy oss-maintainer-kit example repository.</desc>
+  <rect width="1200" height="630" fill="#0B1020"/>
+  <rect x="36" y="36" width="1128" height="558" rx="28" fill="#11182B"/>
+  <rect x="36" y="36" width="1128" height="8" fill="#16A34A"/>
+  <text x="72" y="108" fill="#9BB0D3" font-family="SF Pro Display, Inter, system-ui, sans-serif" font-size="22" font-weight="600">oss-maintainer-kit example</text>
+  <text x="72" y="170" fill="#F8FAFC" font-family="SF Pro Display, Inter, system-ui, sans-serif" font-size="52" font-weight="700">docs-heavy</text>
+  <text x="72" y="214" fill="#CBD5E1" font-family="SF Pro Text, Inter, system-ui, sans-serif" font-size="24">Documentation-first maintenance where clarity is the product</text>
+
+  <rect x="72" y="266" width="320" height="178" rx="22" fill="#172036" stroke="#24324D"/>
+  <text x="100" y="316" fill="#16A34A" font-family="SF Pro Display, Inter, system-ui, sans-serif" font-size="22" font-weight="700">Best for</text>
+  <text x="100" y="356" fill="#E2E8F0" font-family="SF Pro Text, Inter, system-ui, sans-serif" font-size="24">guides, references, docs-led repositories</text>
+
+  <rect x="440" y="266" width="320" height="178" rx="22" fill="#172036" stroke="#24324D"/>
+  <text x="468" y="316" fill="#16A34A" font-family="SF Pro Display, Inter, system-ui, sans-serif" font-size="22" font-weight="700">Inspect first</text>
+  <text x="468" y="356" fill="#E2E8F0" font-family="SF Pro Text, Inter, system-ui, sans-serif" font-size="24">AGENTS, docs workflow, examples and links</text>
+
+  <rect x="808" y="266" width="320" height="178" rx="22" fill="#172036" stroke="#24324D"/>
+  <text x="836" y="316" fill="#16A34A" font-family="SF Pro Display, Inter, system-ui, sans-serif" font-size="22" font-weight="700">Outcome</text>
+  <text x="836" y="356" fill="#E2E8F0" font-family="SF Pro Text, Inter, system-ui, sans-serif" font-size="24">better accuracy, navigation, and example discipline</text>
+
+  <rect x="72" y="490" width="1056" height="70" rx="16" fill="#0B1020" stroke="#24324D"/>
+  <text x="100" y="534" fill="#FCD34D" font-family="SF Mono, Menlo, monospace" font-size="22">npx oss-maintainer-kit init . --preset docs-heavy</text>
+</svg>
